@@ -1,0 +1,20 @@
+/* Кнопки */
+.button{
+    text-decoration: none;
+}
+.button:visited{
+    color: black;
+}
+
+/* положение конпок */
+.title{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: #93E9ED;
+    max-height: 100%;
+    height: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
