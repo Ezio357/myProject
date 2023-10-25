@@ -1,0 +1,30 @@
+.bioInfo{
+    text-transform: uppercase;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+/* заголовок и список */
+.titleBios{
+
+}
+
+.list{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.chapter{
+    padding-bottom: 10px;
+}
+
+.glav{
+    padding-top: 10px;
+}
+
+/* SPA style */
+.linkStyle{
+    text-decoration: none;
+    color: black;
+}
